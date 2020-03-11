@@ -66,7 +66,7 @@ npm install
 
 Project Link: [https://fitness-track-amitabh.herokuapp.com/](https://fitness-track-amitabh.herokuapp.com/)
 
-
+![demo](/public/images/workout-tracker.png)
 
 ## Acknowledgements
 
