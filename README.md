@@ -10,9 +10,14 @@
     <a href="https://github.com/Amitabh-K/fitness-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://fitness-track-amitabh.herokuapp.com/">View Demo</a> 
+    <a href="https://fitness-track-amitabh.herokuapp.com/">Explore the Deployed App</a>
   </p>
 </p>
+
+
+## Usage demo
+
+![Usage demo](./public/images/demo.gif)
 
 
 ## Table of Contents
