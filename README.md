@@ -5,6 +5,7 @@
   <h3 align="center">Workout Tracker</h3>
 
   <p align="center">
+  App allows for the user to track workouts. User has the capability to add either cardio or resistance training to a mongo database. The user input is stored by day. Each exercises stats are display in a dashboard to show the previous 7 days of workouts.
     The user can create, view, and track daily workouts. They can log multiple exercises for a workout on a given day. They can also view stats and see progress bars.
     <br />
     <a href="https://github.com/Amitabh-K/fitness-tracker"><strong>Explore the docs »</strong></a>
