@@ -1,4 +1,4 @@
-
+[![HitCount](http://hits.dwyl.com/Amitabh-K/fitness-tracker.svg)](http://hits.dwyl.com/Amitabh-K/fitness-tracker)
 <br />
 <p align="center">
 
